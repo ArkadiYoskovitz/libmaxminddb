@@ -1,5 +1,5 @@
-libmaxminddb (1.0.2-1) unstable; urgency=low
+libmaxminddb (1.0.3-0+maxmind1~utopic) utopic; urgency=medium
 
-  * Initial release. (Closes: #741199)
+  * Initial MaxMind PPA release.
 
- -- Faidon Liambotis <paravoid@debian.org>  Mon, 10 Nov 2014 16:52:17 +0200
+ -- Gregory J. Oschwald (MaxMind, Inc.) <goschwald@maxmind.com>  Thu, 11 Dec 2014 08:03:59 -0800
